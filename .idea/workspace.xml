@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7c454e3-d34b-49be-bd5d-295b2f980f1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geometries.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/geometries.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/spheres.js" afterPath="$PROJECT_DIR$/js/spheres.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/squares.js" afterPath="$PROJECT_DIR$/js/squares.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/triangles.js" afterPath="$PROJECT_DIR$/js/triangles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spheres.html" afterPath="$PROJECT_DIR$/spheres.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/squares.html" afterPath="$PROJECT_DIR$/squares.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triangles.html" afterPath="$PROJECT_DIR$/triangles.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,12 +20,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="geometries.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="geometries.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/geometries.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1200">
               <caret line="34" column="93" lean-forward="false" selection-start-line="34" selection-start-column="93" selection-end-line="34" selection-end-column="93" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -87,9 +91,9 @@
         <option value="$PROJECT_DIR$/js/spheres.js" />
         <option value="$PROJECT_DIR$/triangles.html" />
         <option value="$PROJECT_DIR$/js/triangles.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/geometries.html" />
         <option value="$PROJECT_DIR$/js/geometries.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -256,12 +260,12 @@
       <option name="presentableId" value="Default" />
       <updated>1496932171679</updated>
       <workItem from="1496932173825" duration="5639000" />
-      <workItem from="1496977159662" duration="29516000" />
+      <workItem from="1496977159662" duration="29619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35155000" />
+    <option name="totallyTimeSpent" value="35258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -406,17 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-65">
-            <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/triangles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -454,6 +447,17 @@
         <state relative-caret-position="-1200">
           <caret line="34" column="93" lean-forward="false" selection-start-line="34" selection-start-column="93" selection-end-line="34" selection-end-column="93" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
